@@ -68,7 +68,7 @@ To use the script, you will need to follow these steps:
 8. (Optional) Set the first task of the system in the INITIAL_TASK variable.
 9. Run the script: `python babyagi.py`
 
-All optional values above can also be specified on the command line.
+
 
 # Running inside a docker container
 
